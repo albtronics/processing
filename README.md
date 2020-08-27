@@ -1,4 +1,4 @@
-<img src="Images/processing%20logo.png" width="100">
+<img src="Images/processing%20logo.png" width="200">
 
 # albtronics/processing
 
